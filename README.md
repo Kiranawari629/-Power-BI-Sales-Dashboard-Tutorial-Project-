@@ -16,7 +16,10 @@ It is the **first project** in my portfolio, showcasing my ability to design bus
 - DAX for calculated measures (e.g., Total Sales, Profit Margin).  
 - Dashboard design principles: KPIs, trends, interactivity, usability.  
 ## 🗂️ Repository Contents
-- `pbix/` → Power BI file (`SalesDashboard.pbix`)  
-- `screenshots/` → Dashboard images for preview  
-- `data/` → Tutorial dataset 
+- Power BI file - BI report  
+- Dashboard images for preview - Screenshot 1 
+- Tutorial dataset - Details, Orders
 ## 📷 Dashboard Preview
+
+## 👤 Author
+Kiran Awari - www.linkedin.com/in/kiran-awari-643b1796 - kiranawarai629@gmail.com
