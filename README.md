@@ -10,6 +10,9 @@ It is the **first project** in my portfolio, showcasing my ability to design bus
 - Regional Performance: Map visual for geography-based sales.  
 - Interactive Slicers: Filter data by category, region, and time period.  
 
+## 📷 Dashboard Preview
+<img width="1363" height="708" alt="Screenshot 1" src="https://github.com/user-attachments/assets/ddf5e9ce-854b-48c0-a973-a30c50585dc9" />
+
 ## 🛠️ Skills Demonstrated
 - Power Query for data cleaning & transformation.  
 - Data modeling (relationships between fact and dimension tables).  
